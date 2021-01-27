@@ -13,6 +13,9 @@ Explicación clara y concisa del error.
 **To Reproduce**
 Tu script o instruccioens que tienen la falla
 
+**Bug information**
+Informacion sobre las circunstancias en las que se presenta el bug (ID del proceso, usuario de Turing, log de ejecucion, mensaje de error, etc.)
+
 **Expected behavior**
 Qué esperabas como resultado?
 
